@@ -62,4 +62,4 @@ except ConnectionRefusedError:
 in this line we create a bunch of exceptions that can handle our script to run perfectly a connection refused 
 is considered by our program as closed port . """
 
-"""note:this scanner is considered as a simple portscanner ,mostly generated for learning purposes. 
+"""note:this scanner is considered as a simple portscanner ,mostly generated for learning purposes.""" 
